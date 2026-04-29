@@ -23,7 +23,7 @@ Official Logo:
 
 ``` gdscript
 
-class_name SSD1306ParseImageToBoolean
+class_name Quad1306ParseImageToBoolean
 extends Node
 signal on_image_parsed(width:int, binary_image : Array[bool])
 func image_to_parse_and_emit(image:Texture2D)->Array[bool]:
