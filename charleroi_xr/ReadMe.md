@@ -51,6 +51,7 @@ Créons un projet vide avec l’outil (l’addon) dans votre projet :
 * [ ] Via une Godot Lib
 * [ ] Via le Godot Asset Store (Beta)
 
+[=> Comment on fait?](https://github.com/EloiStree/HelloGodot128x64/tree/main/charleroi_xr/workshop/setup_ssd1306_in_empty_project) 
 
 ---------
 
