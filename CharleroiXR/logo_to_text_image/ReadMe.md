@@ -3,7 +3,7 @@
 > Essayons de transformer un image en un tableau binaire de 128x64 =1024 bytes et 8196 bits.
 
 
-[<img width="1101" height="728" alt="image" src="https://github.com/user-attachments/assets/dab0d27e-207b-40cf-89ee-8da782d672b7" />
+[<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/d4dc1bda-449a-437a-bb2d-9b34bd3c90e4" />
 ](https://www.locationscout.net/belgium/27063-charleroi/60943)  
 https://www.locationscout.net/belgium/27063-charleroi/60943   
 
