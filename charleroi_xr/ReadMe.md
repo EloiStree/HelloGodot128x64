@@ -28,8 +28,8 @@ func draw():
 
 # Allows to configure the full array in one call
 func set_value_with_1d_array(array_1d:Array[bool]):
-func get_value_as_1d_array_reference(array_1d:Array[bool]):
-func get_value_as_1d_array_copy(array_1d:Array[bool]):
+func get_value_as_1d_array_reference()->Array[bool]:
+func get_value_as_1d_array_copy()->Array[bool]:
 
 
 # Use those four only if you created it youself before from 1D exercice.
