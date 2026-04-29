@@ -5,7 +5,7 @@ Je vous propose de revoir et repratiquer les bases de la programmation:
 reserved keyword, variable, boucle, methode, tableau 1D 2D,...
 
 Si vous avez deja le niveau, je vous invite faire votre propre SSD1306.
-[Faire un quad Texturable](#)
+[Faire un quad Texturable](https://github.com/EloiStree/HelloGodot128x64/tree/main/charleroi_xr/workshop/create_128x64_textured_quad)
 
 Mais pour les autres, utilisons ce que je vous ai preparez 😉:
 https://github.com/EloiStree/2026_04_27_gdp_oled_128x64
