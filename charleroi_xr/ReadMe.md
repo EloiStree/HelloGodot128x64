@@ -39,6 +39,26 @@ func set_value_at_x_y_lrdt(x_left_right:int,y_top_down:int, is_on:bool):
 func get_value_at_x_y_lrdt(x_left_right:int,y_top_down:int)->bool:
 ```
 
+---------
 
-Regardons a nos feuilles A4 et essayons de barrer les concepts:   
-https://miro.com/app/board/uXjVGUVLhc8=/   
+# Installation / Setup
+
+Créons un projet vide avec l’outil (l’addon) dans votre projet :
+
+* [ ] Par fichier ZIP
+* [ ] Par git clone
+* [ ] Par git submodule
+* [ ] Via une Godot Lib
+* [ ] Via le Godot Asset Store (Beta)
+
+
+---------
+
+# Que peut-on etudier ?
+
+Regardons nos feuilles A4 et essayons de cocher ou barrer les concepts :  
+[https://miro.com/app/board/uXjVGUVLhc8=/](https://miro.com/app/board/uXjVGUVLhc8=/)  
+
+
+
+
