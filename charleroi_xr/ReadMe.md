@@ -1,21 +1,21 @@
-Salut a tous.
 
-Avant de passer a du Godot Engine et de la XR,  
-Je vous propose de revoir et repratiquer les bases de la programmation:
-reserved keyword, variable, boucle, methode, tableau 1D 2D,...
+Salut à tous,
+   
+Avant de passer à Godot Engine et à la XR,   
+je vous propose de revoir et de repratiquer les bases de la programmation:   
+mots-clés réservés, variables, boucles, méthodes, tableaux 1D et 2D, etc.    
+  
+Si vous avez déjà le niveau, je vous invite à faire votre propre SSD1306 :   
+[Créer un quad texturable](https://github.com/EloiStree/HelloGodot128x64/tree/main/charleroi_xr/workshop/create_128x64_textured_quad)   
 
-Si vous avez deja le niveau, je vous invite faire votre propre SSD1306.
-[Faire un quad Texturable](https://github.com/EloiStree/HelloGodot128x64/tree/main/charleroi_xr/workshop/create_128x64_textured_quad)
+Mais pour les autres, utilisons ce que je vous ai préparé 😉 :   
+[https://github.com/EloiStree/2026_04_27_gdp_oled_128x64](https://github.com/EloiStree/2026_04_27_gdp_oled_128x64)    
 
-Mais pour les autres, utilisons ce que je vous ai preparez 😉:
-https://github.com/EloiStree/2026_04_27_gdp_oled_128x64
+Les solutions aux exercices se trouvent dans le package en question.    
+Je vous demande donc de ne pas les regarder 😜    
+(sauf si vous êtes vraiment bloqués)   
 
-La solution a vos exercice sont le package en question:
-Je vous demande donc de ne pas regarder 😜
-(_Sauf si vous etes vraiment blocker_)
-
-Pour les exercices, vous ne pouvez utiliser que;
-
+Pour les exercices, n'utilisez que:
 
 `SSD1306NodeFacade.gd`
 ```gdscript
