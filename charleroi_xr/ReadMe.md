@@ -17,7 +17,7 @@ Je vous demande donc de ne pas regarder 😜
 Pour les exercices, vous ne pouvez utiliser que;
 
 
-SSD1306NodeFacade.gd
+`SSD1306NodeFacade.gd`
 ```gdscript
 # Allows to set the next draw value to `true` or `false`
 func set_value_at_index_1d(index_0_8191:int, is_on:bool):
