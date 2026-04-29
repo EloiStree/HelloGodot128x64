@@ -61,5 +61,46 @@ Regardons nos feuilles A4 et essayons de cocher ou barrer les concepts :
 [https://miro.com/app/board/uXjVGUVLhc8=/](https://miro.com/app/board/uXjVGUVLhc8=/)  
 
 
+# Modding
 
+Essayons de creer un SSD1306 qui peut etre modder.  
+Donc le code peu etre changer/ charger.  
+
+
+# Compass
+
+Creeons une script qui afficher une bousole.
+
+# Bit Shift Graph
+
+Affichons une valeur en pourcentage de -1 a 1 ou de 0 1 sur le temps.
+
+## Spectrogram 
+Pour le fun ca ressemble a quoi un spectrogram
+
+
+# Euler
+
+Essayons d afficher la rotation de euler avec des barres de progression
+
+# Bubble
+
+Essayons de faire un measure d inclinaison
+
+## Wheel Tilt
+
+Essayons de trouver le degree de rotation sur l axe des z quand l appareille est vertical
+
+
+## Face Down Rotation
+
+Essayons de trouver le degree de rotation sur l axe des x y quand l appareille fait face "verticalement"
+
+
+
+
+# Challenge
+
+- Microphone du device
+- Spectrogram
 
