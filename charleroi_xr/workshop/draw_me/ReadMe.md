@@ -260,28 +260,184 @@ func my_code():
 ```
 
 
-## Essayez de remplire l ecran de couleur
+## Essayez de remplir l’écran de couleur
 
-a faire
+À faire
 
-## Creeons un methode turn off et turn on
+---
 
-a faire
+## Créons une méthode turn off et turn on
+
+À faire
+
+---
 
 ## Utilisons await pour le faire clignoter 😁
 
-a faire
+À faire
+
 
 ---------------------------
 
-# Temporaire, tout les exercices en images sans commentaire
 
-## Essayer de colorer les bors sur 1 pixels puis sur 2
+# Temporaire, tous les exercices en images sans commentaire
+
+## Essayer de colorer les bords sur 1 pixel puis sur 2
 
 <img width="128" height="64" alt="image" src="https://github.com/user-attachments/assets/07255051-7461-41a5-bfe5-91353d8634cd" />
 
+---
 
+# Un centre avec une valeur paire ?
 
+Quatre points <img width="128" height="64" alt="image" src="https://github.com/user-attachments/assets/e7498f1f-9816-4ffa-a6e1-966e7a0f1b0b" />
+
+---
+
+# Dessinez une ligne à partir d’un point
+
+Vers la droite
+
+<img width="128" height="64" alt="image" src="https://github.com/user-attachments/assets/ee4db2c1-40d8-4c53-9c67-e8453737148d" />
+
+Vers le dessus
+
+<img width="128" height="64" alt="image" src="https://github.com/user-attachments/assets/04b2eb80-7218-455c-9e26-640a5e36934b" />
+
+Quatre méthodes pour chaque direction
+
+<img width="50" height="44" alt="image" src="https://github.com/user-attachments/assets/93bdd271-7b6d-47ce-8d01-5fa69b45c71a" />
+
+---
+
+# Dessinons un rectangle plein
+
+<img width="55" height="24" alt="image" src="https://github.com/user-attachments/assets/c103dc69-abcb-4a8f-bb94-c031488bd852" />
+
+* En dessinant case par case
+* En utilisant notre méthode pour dessiner une ligne
+
+Bonus :
+
+* Essayer de dessiner un pixel sur deux
+* Essayer de dessiner un pixel sur deux avec un décalage sur les lignes impaires
+
+---
+
+# Dessinons les bords d’un rectangle
+
+<img width="60" height="32" alt="image" src="https://github.com/user-attachments/assets/d5a2ae03-0990-4f9a-a472-966878c261d5" />
+
+Utiliser ce code pour remplir la moitié de gauche
+
+<img width="70" height="64" alt="image" src="https://github.com/user-attachments/assets/92d5ed31-e106-4d23-935c-00b0d4ac1a7c" />
+
+Bonus : créer un faux code-barres 😅
+Challenge : créer un QR code valide à partir d’une image
+Expert : créer un QR code valide à partir d’un texte donné
+
+---
+
+# Une ligne
+
+<img width="66" height="49" alt="image" src="https://github.com/user-attachments/assets/dee26f58-cc02-4783-8878-d3f078068af0" />
+
+Si vous avez peur de la trigonométrie,
+commencez par une diagonale 😜
+
+Puis revenez après un bon café…
+et utilisez la trigonométrie 🍻🔥
+
+Montrez-moi que votre prof de maths peut être fier de vous
+
+---
+
+# Un triangle… rectangle 😉
+
+<img width="41" height="23" alt="image" src="https://github.com/user-attachments/assets/50e54369-6154-457b-a645-3536994c23fa" />
+
+En gros, votre code pour des lignes verticales et horizontales,
+suivi de votre nouveau code pour faire des lignes non droites
+
+---
+
+# Alors… un octogone
+
+<img width="60" height="46" alt="image" src="https://github.com/user-attachments/assets/63da8f54-d9a9-410e-b951-23f277ac0e7c" />
+
+Mais si vous voulez, vous pouvez aussi faire un hexagone…
+
+---
+
+# Hey hey… Un cercle 😁
+
+Bah oui, on n’allait pas le laisser de côté.
+Si vous avez fait l’octogone avec des sin et cos, vous y êtes presque.
+
+<img width="72" height="59" alt="image" src="https://github.com/user-attachments/assets/6048b894-40be-4e63-af3e-cf49bc003973" />
+
+---
+
+# Le drapeau japonais ?
+
+<img width="62" height="61" alt="image" src="https://github.com/user-attachments/assets/e478f055-d250-4615-84ab-027436f72f95" />
+
+---
+
+# Un game engine
+
+<img width="94" height="47" alt="image" src="https://github.com/user-attachments/assets/0071dd5e-2b21-4921-b940-10cd4f70f511" />
+
+Tous les game engines du monde sont juste de grosses boîtes à outils qui dessinent des triangles,
+et utilisent des sphères pour calculer des collisions
+
+Alors essayez de dessiner votre premier triangle (en noir et blanc ici)
+
+---
+
+# Une lettre
+
+<img width="9" height="12" alt="image" src="https://github.com/user-attachments/assets/bd6d0257-2cbf-4e44-af7d-29ddf8715d09" />
+
+Essayez à la main d’écrire un B sur une taille de 8 × 6
+
+Si vous y arrivez à la main, essayons avec du texte
+
+```
+var b :String ="""
+000000
+011100
+010010
+011100
+010010
+010010
+011100
+000000
+"""
+```
+
+---
+
+# Byte et pages
+
+<img width="2" height="9" alt="image" src="https://github.com/user-attachments/assets/0f32a3bc-295b-410e-9392-7e3454d10253" />
+
+En réalité, si vous regardez sous le capot d’un SSD1306, ce sont 8 tableaux de 8×128
+
+Pour le délire…
+
+Créons une méthode qui prend un byte et le dessine verticalement sur le XY donné
+
+---
+
+# Comptons en binaire 😉
+
+<img width="128" height="44" alt="image" src="https://github.com/user-attachments/assets/74f8c8a0-a8b4-4023-9f94-f85917a8744b" />
+
+Ah bah, si vous savez dessiner un byte :
+
+Dessinez les bytes de 0 à 127 sur la page 1
+Dessinez les bytes de 128 à 255 sur la page 2
 
 
 
