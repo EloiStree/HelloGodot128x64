@@ -1,8 +1,9 @@
 - https://github.com/EloiStree/2026_04_27_gdp_oled_128x64
-- https://github.com/EloiStree/2026_04_27_gdp_oled_128x64_sample.git
-- https://github.com/EloiStree/HelloGodot128x64.git
+- https://github.com/EloiStree/2026_04_27_gdp_oled_128x64_sample
+- https://github.com/EloiStree/HelloGodot128x64
 
 -----------
+
 
 # Hello Godot 128×64
 
