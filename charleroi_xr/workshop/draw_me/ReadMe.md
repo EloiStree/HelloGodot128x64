@@ -88,6 +88,9 @@ on_screen_update_request
 
 # Un pixel
 
+<img width="128" height="64" alt="image" src="https://github.com/user-attachments/assets/3337077c-315c-414a-89c4-76e130f180d1" />
+
+
 Essayons de transmettre un tableau avec uniquement le premier pixel allumé.
 
 Un tableau 2D est en réalité stocké comme un tableau 1D (une liste).
@@ -154,7 +157,7 @@ En classe, si je vous donne cours sur Discord, ou dans les commentaires YouTube 
 
 # Baladons-nous sur les X
 
-<img width="3" height="3" alt="image" src="https://github.com/user-attachments/assets/dca5291a-5cc1-4265-bc05-f3a3c4066bf4" />
+<img width="128" height="64" alt="image" src="https://github.com/user-attachments/assets/19effa46-114c-4793-a726-b5d199c93d90" />
 
 De gauche à droite, nous avons la ligne 1 de 0 à 127 pour 128 pixels.
 
@@ -170,7 +173,8 @@ func my_code():
 
 # Une ligne
 
-<img width="128" height="4" alt="image" src="https://github.com/user-attachments/assets/45dd21c4-5d2b-40e4-988f-1b3a569929cc" />
+<img width="128" height="64" alt="image" src="https://github.com/user-attachments/assets/120dcb33-92d7-44d7-b265-1aab0c2c1676" />
+
 
 Essayons d’allumer la ligne du dessus.
 
@@ -198,7 +202,8 @@ Comment vous feriez si vous deviez faire une ligne de 20 cases sur la gauche et 
 
 # Baladons-nous sur les Y du dessus au-dessous
 
-<img width="128" height="64" alt="image" src="https://github.com/user-attachments/assets/f9277533-108a-4565-a948-85c690dbca27" />
+
+<img width="128" height="64" alt="image" src="https://github.com/user-attachments/assets/139965d0-3dd5-4060-be2f-a5feaddcda60" />
 
 Du coup, comment on fait pour allumer le coin à gauche et à droite sur la dernière ligne ?
 
@@ -235,7 +240,7 @@ func my_code():
 
 ## Vous savez la suite 😉
 
-<img width="2" height="64" alt="image" src="https://github.com/user-attachments/assets/71823194-f51e-4c22-8702-ddedad8baa4e" />
+<img width="128" height="64" alt="image" src="https://github.com/user-attachments/assets/af6b07bf-109b-46f9-8e44-f4afef180d7e" />
 
 Essayons d’allumer la ligne de droite de notre écran.
 
@@ -255,12 +260,25 @@ func my_code():
 ```
 
 
----------------------------
+## Essayez de remplire l ecran de couleur
 
+a faire
+
+## Creeons un methode turn off et turn on
+
+a faire
+
+## Utilisons await pour le faire clignoter 😁
+
+a faire
+
+---------------------------
 
 # Temporaire, tout les exercices en images sans commentaire
 
 ## Essayer de colorer les bors sur 1 pixels puis sur 2
+
+<img width="128" height="64" alt="image" src="https://github.com/user-attachments/assets/07255051-7461-41a5-bfe5-91353d8634cd" />
 
 
 
