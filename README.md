@@ -1,3 +1,9 @@
+- https://github.com/EloiStree/2026_04_27_gdp_oled_128x64
+- https://github.com/EloiStree/2026_04_27_gdp_oled_128x64_sample.git
+- https://github.com/EloiStree/HelloGodot128x64.git
+
+-----------
+
 # Hello Godot 128×64
 
 > Learn Godot scripting using a 128×64 OLED display in Godot that you can later reuse in your projects for debugging.
