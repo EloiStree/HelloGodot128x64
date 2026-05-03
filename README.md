@@ -1,6 +1,7 @@
-- https://github.com/EloiStree/2026_04_27_gdp_oled_128x64
-- https://github.com/EloiStree/2026_04_27_gdp_oled_128x64_sample
-- https://github.com/EloiStree/HelloGodot128x64
+- Godot Addons:  https://github.com/EloiStree/2026_04_27_gdp_oled_128x64
+- Godot Addons Example: https://github.com/EloiStree/2026_04_27_gdp_oled_128x64_sample
+- Tutorials / Guide: https://github.com/EloiStree/HelloGodot128x64
+- Godot to Real life: https://github.com/EloiStree/2026_04_27_esp32_oled_128x64_udp_i2c
 
 -----------
 
